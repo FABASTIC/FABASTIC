@@ -9,22 +9,22 @@
 <br>
 
 ### ⚡ About Me
-I'm a B.Tech student at VIT focused on building practical, full-stack applications. I prefer learning by doing—reading the documentation, testing edge cases, and iterating on real projects. My focus is on writing maintainable backend logic and connecting it to clean, functional interfaces. When I'm working through a long build, it's usually with a supply of cheese puffs and ginger ale.
+I am a B.Tech student at VIT focused on building scalable, full-stack applications. My approach to software engineering centers on reading documentation, testing edge cases, and iterating through practical implementation. I specialize in writing maintainable backend logic and connecting it to clean, highly functional interfaces. 
 
-### 🛠️ The Toolkit
-*   **Hardware:** HP Victus 16 (Intel i7 14th Gen, RTX 4060)
+### 🛠️ Technical Stack
 *   **Languages:** Python • TypeScript • SQL • HTML/CSS
-*   **Frameworks & Tools:** React • FastAPI • PostgreSQL • Git
+*   **Frameworks & Libraries:** React • FastAPI
+*   **Databases & Tools:** PostgreSQL • SQLite • Git
 
 ---
 
-### 📦 Recent Work
+### 📦 Selected Projects
 
-> **[ContextOS Core & Reference Apps]** — *Full-Stack / UI*
-> Built the frontend workspace and reference applications (GraviBank, GraviComm) for a behavioral codebase analyzer. Developed the React-based UI components and structured the initial FastAPI testing environments to provide deterministic mapping data for the core engine.
+> **[ContextOS Core & Reference Ecosystem]** — *Full-Stack / UI Architecture*
+> Developed the frontend workspace and reference applications (GraviBank, GraviComm) for a behavioral codebase analyzer. Built the React-based UI components and structured the FastAPI backend testing environments to provide deterministic mapping data for the core static analysis engine.
 
 > **[KLA Semicon Hackathon Solution]** — *Backend / AI Integration*
-> Collaborated on a backend architecture that integrated AI models to parse, process, and summarize complex datasets.
+> Collaborated on a backend architecture that integrated AI models to parse, process, and summarize complex datasets efficiently.
 
 ---
 
