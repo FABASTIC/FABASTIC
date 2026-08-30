@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/8a/16/a48a16db537e2354c00eb8b32dc9b1cd.gif" width="130" style="border-radius: 50%; border: 2px solid #2d333b;" alt="Pixel PFP"/>
+  <img src="image_c9398a.png" width="100%" alt="Vairaj Dot Matrix Header"/>
+  
   <br><br>
+  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/fabastic)
 </div>
 
