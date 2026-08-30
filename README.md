@@ -1,36 +1,47 @@
 <div align="center">
   <img src="image_c9398a.png" width="100%" alt="Vairaj Dot Matrix Header"/>
-  
   <br><br>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=0d1117)](https://github.com/fabastic)
+  <a href="https://github.com/fabastic">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  </a>
 </div>
 
 <br>
 
-### ⚡ Whoami
-Building heavy backend architectures and clean, high-fidelity frontends. No 4-hour tutorial hell—just the docs, some trial and error, and a steady supply of cheese puffs and ginger ale to keep the engine running. Currently at VIT, dodging the noise and just building cool shit.
+## ✦ ᴡʜᴏᴀᴍɪ
+> **Vairaj Malhotra** // Code, Chaos, & Architecture
 
-### 🛠️ The Build
-*   **Rig:** HP Victus 16 (Intel i7 14th Gen, RTX 4060)
-*   **Stack:** Python • TypeScript • SQL • HTML5 
-*   **AFK:** Grinding Plat lobbies in Valorant, breaking Balatro with negative Oops! All 6s runs, or analyzing Dexter plotlines.
+I don't do tutorial hell. I read the docs, break the compiler, and ship high-fidelity software. Whether it's architecting heavy Python backends or wiring up pixel-perfect React and TypeScript interfaces, I build tech that feels intuitive and runs flawlessly. Currently grinding out my B.Tech at VIT, dodging the noise, and fuelled entirely by an ungodly amount of cheese puffs and ginger ale.
 
----
-
-### 📦 Shipped
-
-> **[KLA Semicon Hackathon Solution]** — *AI / Backend*
-> Architected the backend and integrated AI training models to parse, train, and summarize complex hackathon datasets. 
-
-> **[GraviBank]** — *Frontend / UI*
-> Built a pixel-perfect frontend designed for intuitive flow and clean UI/UX. The kind of interface that actually feels good to click.
-
----
-
-<div align="center">
+## ✦ ᴛʜᴇ ᴀʀꜱᴇɴᴀʟ
+<div align="left">
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
   <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+</div>
+
+<br>
+
+## ✦ ꜱʜɪᴘᴘᴇᴅ & ʙᴜɪʟᴅɪɴɢ
+
+* **[ContextOS Core & Reference Ecosystem]** — *Full-Stack / UI Architecture*
+  Hijacked the visual layer of a complex codebase analyzer. Built the ContextOS workspace UI, the golden `GraviBank` demo, and the `GraviComm` e-commerce sandbox so the backend AST parser has heavy, deterministic logic to chew on. 
+
+* **[KLA Semicon Hackathon]** — *AI / Backend Logic*
+  Architected the backend and integrated AI training models to parse, process, and summarize massive hackathon datasets without dropping a frame.
+
+<br>
+
+## ✦ ᴀꜰᴋ ꜱᴛᴀᴛᴜꜱ
+
+* **The Rig:** HP Victus 16 (Intel i7 14th Gen, RTX 4060).
+* **The Grind:** Holding down Platinum lobbies in *Valorant*, executing perfect parries in *Ghost of Tsushima*, and juggling combos in *Mortal Kombat 11*.
+* **The Strategy:** Breaking *Balatro* mathematics with a Negative *Oops! All 6s* build. 
+* **The Lore:** Deep diving into *Dexter* plotlines, novel differences, and character arcs.
+
+<br>
+<div align="center">
+  <i>"I changed the software — it showed me what I broke. I added a feature — it showed me what I created."</i>
 </div>
