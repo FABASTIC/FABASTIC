@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Vairaj Malhotra</h2>
-  <p>Full-Stack Developer | Software Engineering Student</p>
+  <p>Software Engineering Student | Aspiring Full-Stack Developer</p>
   <a href="https://github.com/fabastic">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
@@ -8,8 +8,8 @@
 
 <br>
 
-### ⚡ About Me
-I am a B.Tech student at VIT focused on building scalable, full-stack applications. My approach to software engineering centers on reading documentation, testing edge cases, and iterating through practical implementation. I specialize in writing maintainable backend logic and connecting it to clean, highly functional interfaces. 
+### 👋 About Me
+I'm a B.Tech student at VIT exploring the world of software engineering. While I enjoy diving into full-stack development, I'm still very much in the learning phase and figuring things out as I go. My approach right now is simple: read the documentation, make plenty of mistakes, and keep iterating until the code works. I'm currently focused on getting better at writing clean backend logic and connecting it to functional React interfaces.
 
 ### 🛠️ Technical Stack
 *   **Languages:** Python • TypeScript • SQL • HTML/CSS
@@ -18,13 +18,13 @@ I am a B.Tech student at VIT focused on building scalable, full-stack applicatio
 
 ---
 
-### 📦 Selected Projects
+### 📦 What I've Been Working On
 
-> **[ContextOS Core & Reference Ecosystem]** — *Full-Stack / UI Architecture*
-> Developed the frontend workspace and reference applications (GraviBank, GraviComm) for a behavioral codebase analyzer. Built the React-based UI components and structured the FastAPI backend testing environments to provide deterministic mapping data for the core static analysis engine.
+> **[ContextOS Core & Reference Ecosystem]** — *Frontend & UI Contributor*
+> Built the frontend workspace and reference applications (GraviBank, GraviComm) for a behavioral codebase analyzer. This project was a massive learning experience in developing React-based UI components and structuring basic FastAPI backend environments to help feed data to the core static analysis engine.
 
-> **[KLA Semicon Hackathon Solution]** — *Backend / AI Integration*
-> Collaborated on a backend architecture that integrated AI models to parse, process, and summarize complex datasets efficiently.
+> **[KLA Semicon Hackathon]** — *Backend / AI Integration*
+> Collaborated on a backend architecture that integrated AI models to parse and summarize datasets. Working alongside a team for this project really helped me understand how to approach more complex data pipelines.
 
 ---
 
