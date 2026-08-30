@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Vairaj Malhotra</h2>
-  <p>Building heavy backend architectures and clean, high-fidelity frontends.</p>
+  <p>Full-Stack Developer | Software Engineering Student</p>
   <a href="https://github.com/fabastic">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
@@ -8,23 +8,23 @@
 
 <br>
 
-### ⚡ Whoami
-I don't do tutorial hell. I read the docs, break the compiler, and ship high-fidelity software. Whether it's architecting Python backends or wiring up pixel-perfect React and TypeScript interfaces, I build tech that feels intuitive and runs flawlessly. Currently pursuing my B.Tech at VIT, dodging the noise, and fuelled by an ungodly amount of cheese puffs and ginger ale.
+### ⚡ About Me
+I'm a B.Tech student at VIT focused on building practical, full-stack applications. I prefer learning by doing—reading the documentation, testing edge cases, and iterating on real projects. My focus is on writing maintainable backend logic and connecting it to clean, functional interfaces. When I'm working through a long build, it's usually with a supply of cheese puffs and ginger ale.
 
-### 🛠️ The Arsenal
-*   **Rig:** HP Victus 16 (Intel i7 14th Gen, RTX 4060)
-*   **Stack:** Python • TypeScript • React • FastAPI • SQL
-*   **Focus:** Full-stack architecture, API design, and UI/UX implementation
+### 🛠️ The Toolkit
+*   **Hardware:** HP Victus 16 (Intel i7 14th Gen, RTX 4060)
+*   **Languages:** Python • TypeScript • SQL • HTML/CSS
+*   **Frameworks & Tools:** React • FastAPI • PostgreSQL • Git
 
 ---
 
-### 📦 Shipped & Building
+### 📦 Recent Work
 
-> **[ContextOS Core & Reference Ecosystem]** — *Full-Stack / UI Architecture*
-> Architected the visual layer of a complex codebase analyzer. Built the ContextOS workspace UI, the `GraviBank` reference demo, and the `GraviComm` e-commerce sandbox to provide the backend AST parser with heavy, deterministic logic to map.
+> **[ContextOS Core & Reference Apps]** — *Full-Stack / UI*
+> Built the frontend workspace and reference applications (GraviBank, GraviComm) for a behavioral codebase analyzer. Developed the React-based UI components and structured the initial FastAPI testing environments to provide deterministic mapping data for the core engine.
 
-> **[KLA Semicon Hackathon Solution]** — *AI / Backend*
-> Designed the backend and integrated AI training models to parse, process, and summarize complex, massive hackathon datasets efficiently.
+> **[KLA Semicon Hackathon Solution]** — *Backend / AI Integration*
+> Collaborated on a backend architecture that integrated AI models to parse, process, and summarize complex datasets.
 
 ---
 
